@@ -1,66 +1,64 @@
-✨ Bienvenido a mi perfil de GitHub ✨
+🌟 Bienvenido a mi perfil de GitHub 🌟
 
-Sobre mí
+    ╔════════════════════════════════════════════╗
+    ║          ¡Hola! Soy Pablo Durán            ║
+    ║ Estudiante de Desarrollo de Aplicaciones   ║
+    ║             Web con 23 años                ║
+    ╚════════════════════════════════════════════╝
 
-Hola! Soy Pablo Durán, estudiante de grado superior en Desarrollo de Aplicaciones Web con 23 años. Apasionado por la tecnología, el código limpio y las interfaces atractivas, estoy en constante aprendizaje para llevar mis proyectos al siguiente nivel.
+Soy un apasionado del desarrollo web, el diseño intuitivo y el aprendizaje continuo. ¡Explora mis proyectos y conoce más sobre mí!
 
-✅ Tecnologías que utilizo:
+🚀 Tecnologías que domino
 
-Frontend:
+🖥️ Frontend:HTML5 | CSS3 | JavaScript (JS) | TypeScript (TS)Frameworks: React & Angular
 
-HTML5 | CSS3 | JavaScript (JS) | TypeScript (TS)
+⚙️ Backend:Spring Boot | Jakarta EE
 
-Frameworks: React & Angular
+💾 Bases de datos:MySQL | Mongo | Firebase
 
-Backend:
+📚 Mis proyectos destacados
 
-Spring Boot | Jakarta EE
+🛒 1. Página Web de Comercio Electrónico
 
-Base de datos:
+Una tienda online funcional creada con HTML, CSS y JavaScript.
 
-MySQL
+🛍️ Renderizado dinámico de productos.
 
-🎨 Mi enfoque
+📂 Categorías interactivas.
 
-Diseño de interfaces intuitivas y atractivas.
-
-Buenas prácticas de desarrollo: código mantenible y estructurado.
-
-Soluciones eficientes en backend.
-
-Creación de aplicaciones completas con frontend y backend conectados.
-
-⚡ Proyectos destacados
-
-1. Mi Página Web de Comercio Electrónico
-
-Una página web de comercio electrónico desarrollada con HTML, CSS y JavaScript.
-
-Funcionalidades: Renderizado automático de productos, categorías dinámicas, carrito funcional y gestión de productos.
+🛒 Carrito de compras funcional con gestión intuitiva.
 
 🔗 https://github.com/Pablodb22/PaginaWeb
 
-2. Mi Página Web de Pokédex
+🔍 2. Pokédex Web
 
-Una aplicación web que permite explorar los primeros 151 Pokémon, utilizando datos de la PokeAPI.
+Explora los primeros 151 Pokémon con esta app creada usando HTML, CSS y JavaScript, integrada con la PokeAPI.
 
-Funcionalidades: Filtrado por tipo, búsqueda por nombre y renderizado dinámico de Pokémon.
+🔥 Filtrado por tipo de Pokémon.
+
+🔎 Búsqueda por nombre.
+
+⚡ Interfaz dinámica para una experiencia fluida.
 
 🔗 https://github.com/Pablodb22/PokeDex
 
-💡 Un poco más sobre mí:
+🧩 Sobre mí
 
-☕ Amante del café y del aprendizaje constante: Siempre busco nuevas tecnologías y formas de mejorar como desarrollador.
+🎨 Mi enfoque:Crear aplicaciones que combinen diseño visual atractivo con una experiencia de usuario fluida y lógica eficiente.
 
-⚜️ Trabajo en equipo: Creo firmemente en que colaborar con otros potencia la creatividad y la resolución de problemas.
+☕ Pasiones:Amante del café y de explorar nuevas tecnologías para superar mis límites.
 
-⚡ Metas: Mi objetivo es convertirme en un desarrollador web full-stack sólido y aportar soluciones innovadoras a problemas reales.
+🌟 Objetivo:Convertirme en un desarrollador web full-stack y contribuir con soluciones innovadoras.
 
-📢 Conéctate conmigo:
+🌐 Conéctate conmigo 
 
-LinkedIn: https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/
-
+Linkedin: https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/
 Correo: paduba01@gmail.com
 
-¡Gracias por visitar mi perfil! ¡Estaré encantado de conectar contigo y compartir ideas! 🌟
+
+    ╔════════════════════════════════════════════╗
+    ║ ¡Gracias por visitar mi perfil de GitHub!  ║
+    ║  Estoy abierto a colaborar en proyectos.   ║
+    ║ ¡No dudes en contactarme! 🌟               ║
+    ╚════════════════════════════════════════════╝
 
