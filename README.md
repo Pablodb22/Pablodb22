@@ -30,7 +30,6 @@
 ## 📚 **Mis proyectos destacados**
 
 ### 🛒 **1. Página Web de Comercio Electrónico**  
-![E-commerce](https://via.placeholder.com/150) <!-- Reemplaza con una imagen real -->
 - **Descripción:** Una tienda online funcional creada con HTML, CSS y JavaScript.
 - **Características:**
   - 🛍️ Renderizado dinámico de productos.
@@ -41,7 +40,6 @@
 ---
 
 ### 🔍 **2. Pokédex Web**  
-![Pokédex](https://via.placeholder.com/150) <!-- Reemplaza con una imagen real -->
 - **Descripción:** Explora los primeros 151 Pokémon con esta app creada usando HTML, CSS y JavaScript, integrada con la PokeAPI.
 - **Características:**
   - 🔥 Filtrado por tipo de Pokémon.
