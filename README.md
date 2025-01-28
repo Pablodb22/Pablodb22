@@ -2,7 +2,7 @@
 
 Sobre mí
 
-Hola! Soy [Tu Nombre], estudiante de grado superior en Desarrollo de Aplicaciones Web con 23 años. Apasionado por la tecnología, el código limpio y las interfaces atractivas, estoy en constante aprendizaje para llevar mis proyectos al siguiente nivel.
+Hola! Soy Pablo Durán, estudiante de grado superior en Desarrollo de Aplicaciones Web con 23 años. Apasionado por la tecnología, el código limpio y las interfaces atractivas, estoy en constante aprendizaje para llevar mis proyectos al siguiente nivel.
 
 ✅ Tecnologías que utilizo:
 
@@ -32,19 +32,19 @@ Creación de aplicaciones completas con frontend y backend conectados.
 
 ⚡ Proyectos destacados
 
-1. [Nombre del Proyecto 1]
+1. Mi Página Web de Comercio Electrónico
 
-Breve descripción: Una aplicación que [misión del proyecto, por ejemplo: ayuda a gestionar tareas, etc.].
+Una página web de comercio electrónico desarrollada con HTML, CSS y JavaScript.
 
-Tecnologías: React, Spring Boot, MySQL
+Funcionalidades: Renderizado automático de productos, categorías dinámicas, carrito funcional y gestión de productos.
 
 🔗 Repositorio del proyecto
 
-2. [Nombre del Proyecto 2]
+2. Mi Página Web de Pokédex
 
-Breve descripción: Una web que [objetivo, por ejemplo: muestra contenido dinámico basado en preferencias del usuario, etc.].
+Una aplicación web que permite explorar los primeros 151 Pokémon, utilizando datos de la PokeAPI.
 
-Tecnologías: Angular, TypeScript, Jakarta EE
+Funcionalidades: Filtrado por tipo, búsqueda por nombre y renderizado dinámico de Pokémon.
 
 🔗 Repositorio del proyecto
 
@@ -58,11 +58,9 @@ Tecnologías: Angular, TypeScript, Jakarta EE
 
 📢 Conéctate conmigo:
 
-LinkedIn: Tu perfil de LinkedIn
+LinkedIn: https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/
 
-Correo: tuemail@ejemplo.com
-
-Portafolio: Enlace a tu portafolio personal
+Correo: paduba01@gmail.com
 
 ¡Gracias por visitar mi perfil! ¡Estaré encantado de conectar contigo y compartir ideas! 🌟
 
