@@ -5,7 +5,7 @@
 ---
 
 - 🔭 **Actualmente estoy estudiando Desarrollo de Aplicaciones Web.**
-- 🌱 **Aprendiendo nuevas tecnologías como TypeScript y frameworks modernos.**
+- 🌱 **Aprendiendo nuevas tecnologías tanto de backend como de frontend**
 - 👯 **Buscando colaborar en proyectos de desarrollo web y diseño de interfaces.**
 - 💬 **Pregúntame sobre HTML, CSS, JavaScript y bases de datos.**
 - 📫 **Contáctame:** [paduba01@gmail.com](mailto:paduba01@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/)
