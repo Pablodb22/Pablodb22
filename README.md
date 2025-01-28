@@ -64,28 +64,6 @@
   </a>
 </p>
 
-<h3 align="center">Cloud & Hosting</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> 
-  </a>
-</p>
-
-<h3 align="center">Control de Versiones & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/Pablodb22" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-</p>
 
 <h3 align="center">Conéctate conmigo</h3>
 <div style="margin-top:10px" align="center">
@@ -99,16 +77,7 @@
   </div>
 </div>
 
-<h3 align="center">Estadísticas de GitHub</h3>
-<div align="center">
-  <a href="https://github.com/Pablodb22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablodb22&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Estadísticas%20de%20Pablo" alt="Estadísticas de GitHub" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Pablodb22">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pablodb22&theme=gruvbox" alt="Racha de GitHub"/>
-  </a>
-</div>
+
 
 ---
 
