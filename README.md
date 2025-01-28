@@ -38,7 +38,7 @@ Una página web de comercio electrónico desarrollada con HTML, CSS y JavaScript
 
 Funcionalidades: Renderizado automático de productos, categorías dinámicas, carrito funcional y gestión de productos.
 
-🔗 Repositorio del proyecto
+🔗 https://github.com/Pablodb22/PaginaWeb
 
 2. Mi Página Web de Pokédex
 
@@ -46,7 +46,7 @@ Una aplicación web que permite explorar los primeros 151 Pokémon, utilizando d
 
 Funcionalidades: Filtrado por tipo, búsqueda por nombre y renderizado dinámico de Pokémon.
 
-🔗 Repositorio del proyecto
+🔗 https://github.com/Pablodb22/PokeDex
 
 💡 Un poco más sobre mí:
 
