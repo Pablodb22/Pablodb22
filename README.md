@@ -15,6 +15,9 @@
 
 <h3 align="center">Lenguajes</h3>
 <p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
   </a>
@@ -37,6 +40,9 @@
   <a href="https://angular.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
@@ -51,6 +57,9 @@
 
 <h3 align="center">Bases de Datos</h3>
 <p align="center">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
   <a href="https://www.mysql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
   </a>
@@ -61,7 +70,6 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
   </a>
 </p>
-
 
 <h3 align="center">Conéctate conmigo</h3>
 <div style="margin-top:10px" align="center">
@@ -74,8 +82,6 @@
     </a>
   </div>
 </div>
-
-
 
 ---
 
