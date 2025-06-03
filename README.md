@@ -47,6 +47,9 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> 
   </a>
