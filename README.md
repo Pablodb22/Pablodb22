@@ -4,10 +4,10 @@
 
 ---
 
-- 🔭 **Actualmente estoy estudiando Desarrollo de Aplicaciones Web.**
+- 🔭 **Soy Desarrollador Web FullStack.**
 - 🌱 **Aprendiendo nuevas tecnologías tanto de backend como de frontend**
 - 👯 **Buscando colaborar en proyectos de desarrollo web y diseño de interfaces.**
-- 📫 **Contáctame:** [paduba01@gmail.com](mailto:paduba01@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/)
+- 📫 **Contáctame:** [pabloduranballesteros@gmail.com](mailto:pabloduranballesteros@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/pablo-durán-ballesteros-17b036265/)
 
 ---
 
