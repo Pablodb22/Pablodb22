@@ -1,95 +1,97 @@
-# 🌟 **¡Hola! Soy Pablo Durán** 👋
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=¡Hola!%20Soy%20Pablo%20Durán%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="banner"/>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/Pablodb22?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Pablodb22?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Pablodb22?style=social" />
+  <img src="https://img.shields.io/github/stars/Pablodb22?style=social" />
+</p>
 
 ---
 
-- 🔭 **Soy Desarrollador Web FullStack.**
-- 🌱 **Aprendiendo nuevas tecnologías tanto de backend como de frontend**
-- 👯 **Buscando colaborar en proyectos de desarrollo web y diseño de interfaces.**
-- 📫 **Contáctame:** [pabloduranballesteros@gmail.com](mailto:pabloduranballesteros@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/pablo-durán-ballesteros-17b036265/)
+### 💻 **Desarrollador Web Full Stack | Apasionado por el diseño y la tecnología**
 
----
+🌱 Aprendiendo cada día nuevas herramientas tanto de **backend** como de **frontend**.  
+👯 Busco colaborar en proyectos que mezclen **creatividad y funcionalidad**.  
+📫 **Contáctame:** [pabloduranballesteros@gmail.com](mailto:pabloduranballesteros@gmail.com)
 
-<h2 align="center"><u><b>Conocimientos Técnicos</b></u></h2>
-
-<h3 align="center">Lenguajes</h3>
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/" target="_blank">
+    <img src="https://img.shields.io/badge/-Conéctate%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
+  <a href="https://tuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Visita%20mi%20Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-</p>
-
-<h3 align="center">Frameworks</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> 
-  </a>
-  <a href="https://jakarta.ee/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Jakarta%20EE-4EAA25.svg?style=for-the-badge&logo=jakarta&logoColor=white" alt="Jakarta EE" /> 
-  </a>
-</p>
-
-<h3 align="center">Bases de Datos</h3>
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-  </a>
-  <a href="https://firebase.google.com/" target ="_blank"> 
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
-  </a>
-</p>
-
-<h3 align="center">Conéctate conmigo</h3>
-<div style="margin-top:10px" align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/pablo-dur%C3%A1n-ballesteros-17b036265/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/PabloDurán" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </div>
 </div>
 
 ---
 
-## 🎉 **¡Gracias por visitar mi perfil de GitHub!** 
+## 🧠 **Conocimientos Técnicos**
 
-### 🤝 **Estoy abierto a colaborar en proyectos. ¡No dudes en contactarme!** 🌟
+<h3 align="center">🗣️ Lenguajes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
+
+<h3 align="center">⚛️ Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+</p>
+
+<h3 align="center">🖥️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,java" />
+</p>
+
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />
+</p>
 
 ---
+
+## 🚀 **Proyectos Destacados**
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pablodb22&repo=nombre-del-proyecto-1&theme=tokyonight" />
+      <br/>
+      <a href="https://tuportfolio.com/proyecto1" target="_blank">
+        <img src="https://img.shields.io/badge/-Ver%20Proyecto-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pablodb22&repo=nombre-del-proyecto-2&theme=tokyonight" />
+      <br/>
+      <a href="https://tuportfolio.com/proyecto2" target="_blank">
+        <img src="https://img.shields.io/badge/-Ver%20Proyecto-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 **Conéctate conmigo**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-duran-ballesteros/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://portafoliopabloduran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablodb22&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
+</p>
+
