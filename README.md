@@ -90,15 +90,6 @@ Mi objetivo es seguir creciendo profesionalmente mientras contribuyo en proyecto
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablodb22&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablodb22&theme=tokyonight" alt="Racha de contribuciones"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
 </p>
