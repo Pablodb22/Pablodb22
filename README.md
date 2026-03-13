@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 **Desarrollador Web Full Stack | Apasionado por el diseño, la innovación y el aprendizaje continuo**
+### 💻 **Desarrollador Full Stack | Apasionado por el diseño, la innovación y el aprendizaje continuo**
 
 Soy un **desarrollador web full stack** con enfoque en crear **interfaces intuitivas**, **aplicaciones escalables** y **experiencias digitales** que combinan tecnología y creatividad.  
 Mi objetivo es seguir creciendo profesionalmente mientras contribuyo en proyectos que generen impacto real.
@@ -68,7 +68,7 @@ Mi objetivo es seguir creciendo profesionalmente mientras contribuyo en proyecto
 
 ## 🌱 **Actualmente estoy...**
 
-- 🚧 Trabajando en pequeños proyectos personales con **Next.js**, **NestJS** y **Supabase**.  
+- 🚧 Trabajando en proyectos personales con **Next.js**, **NestJS** y **Supabase**.  
 - 📘 Aprendiendo sobre **arquitecturas escalables**, **optimización en la nube** y **UI/UX moderna**.  
 - 💭 Experimentando con **inteligencia artificial aplicada al desarrollo web**.  
 
