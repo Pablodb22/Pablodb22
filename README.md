@@ -12,7 +12,7 @@
 
 ### 💻 **Desarrollador Full Stack | Apasionado por el diseño, la innovación y el aprendizaje continuo**
 
-Soy un **desarrollador web full stack** con enfoque en crear **interfaces intuitivas**, **aplicaciones escalables** y **experiencias digitales** que combinan tecnología y creatividad.  
+Soy un **desarrollador full stack** con enfoque en crear **interfaces intuitivas**, **aplicaciones escalables** y **experiencias digitales** que combinan tecnología y creatividad.  
 Mi objetivo es seguir creciendo profesionalmente mientras contribuyo en proyectos que generen impacto real.
 
 ---
